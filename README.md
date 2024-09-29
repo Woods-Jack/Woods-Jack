@@ -10,11 +10,14 @@
 
 ## Skills
 
-Programming Languages: TypeScript/JavaScript (Highly Proficient), Python, Java
-Frameworks: React, NextJS, Tailwind CSS, ChakraUI, shadcn/ui
-Tools: Git, MongoDB, PostgreSQL, Azure OpenAI, Langchain
+**Programming Languages:** TypeScript/JavaScript (Highly Proficient), Python, Java
+
+**Frameworks:** React, NextJS, Tailwind CSS, ChakraUI, shadcn/ui
+
+**Tools:** Git, MongoDB, PostgreSQL, Azure OpenAI, Langchain
 
 ## Connect with Me
 
 [LinkedIn](https://linkedin.com/in/jack-woods-london)
+
 [Portfolio Site](https://jack-woods.co.uk)
