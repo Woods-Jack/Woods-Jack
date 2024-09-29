@@ -20,6 +20,4 @@
 
 ## Connect with Me
 
-[LinkedIn](https://linkedin.com/in/jack-woods-london)
-
-[Portfolio Site](https://jack-woods.co.uk)
+Reach me on [LinkedIn](https://linkedin.com/in/jack-woods-london) or find out more about me on my [Portfolio Site](https://jack-woods.co.uk)
