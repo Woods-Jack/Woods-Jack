@@ -1,8 +1,11 @@
 ## About Me
 
 🔭 I'm currently working on Generative AI SDLC Tools and innovative solutions, primarily in Retail / Consumer Products
+
 🌱 I'm learning and growing my knowledge in full-stack development and AI applications
+
 👯 I'm looking to collaborate on projects that combine engineering, AI, and sustainability
+
 💬 Ask me about TypeScript, React, and AI orchestration with Langchain
 
 ## Skills
