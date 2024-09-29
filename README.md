@@ -1,5 +1,7 @@
 # Hi there, I'm Jack 👋
 
+_MEng Mechanical Engineering graduate from University of Bath, now Associate Software Engineer at Publicis Sapient. Passionate about theatre, Formula 1, coffee brewing, and travel._
+
 ## About Me
 
 🔭 I'm currently working on Generative AI SDLC Tools and innovative solutions, primarily in Retail / Consumer Products
